@@ -1,0 +1,13 @@
+module Base
+{
+    sound KnoxAchievement
+    {
+        category = General,
+        clip
+        {
+            file = media/sound/KnoxAchievement.wav,
+            distanceMax = 10,
+            volume = 1.0,
+        }
+    }
+}
